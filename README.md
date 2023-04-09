@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @r4881t
-- 👀 I’m interested in the hexadecimals
-- 🌱 I’m currently learning a lot about decentralised anonymous trusted non custodial networks
-- 💞️ I’m looking to collaborate on dex and protocols
-- 📫 I'm typically available on https://discord.gg/ehAsDckr
+- 👀 I’ve been programming since I was 8
+- 📫 I'm typically available on dApp Store Kit Discord Server ( https://discord.gg/p86yN847Vt )
 
 [r4881t's GitHub stats](https://github-readme-stats.vercel.app/api?username=r4881t&count_private=true)
 
