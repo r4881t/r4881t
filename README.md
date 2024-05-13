@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @r4881t
+- 👋 Hi, I’m Pranav Prakash
 - 👀 I’ve been programming since I was 8
-- 📫 I'm typically available on dApp Store Kit Discord Server ( https://discord.gg/p86yN847Vt )
+- 👉 Follow me on Twitter at [@xpranavprakash](https://twitter.com/xpranavprakash)
+- 📫 I'm typically available on [Meroku.ai Discord](https://discord.gg/xCHzQA4bCc)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=r4881t&count_private=true">
